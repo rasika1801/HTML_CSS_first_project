@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+
+}
+
+.images{
+   
+    
+    border-image: solid;
+    position: relative;
+    
+    
+}
+.images img{
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.text-block {
+    position: absolute;
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+  }

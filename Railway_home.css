@@ -1,0 +1,65 @@
+
+body{
+    background-image: url("https://wallpaper.wiki/wp-content/uploads/2017/04/wallpaper.wiki-Beautiful-railway-images-hd-PIC-WPD0013128.jpg") ;
+    background-size: cover;
+}
+ul{
+    Float:right;
+    list-style-type: none;
+    
+}
+
+li{
+    display:inline-block; 
+    
+     
+}
+ul li a{
+    text-decoration-style: none;
+    color: white;
+    font-weight:bold; 
+    padding: 15px 50px;
+    border:1px ;
+    font-size:25px; 
+
+}
+.myDiv {	
+    font-size:36px; 
+    font-weight:bold; 
+    color:BLUE; 
+       text-align: center;
+  
+    
+  }
+.title1{
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+      font-size:30px; 
+    font-weight:bold; 
+    color:white; 
+       text-align: center;
+       background: rgb(0, 0, 0); /* Fallback color */
+       background: rgba(0, 0, 0, 0.733); /* Black background with 0.5 opacity */
+    
+  }
+
+.title2 {
+font-size:25px;
+font-weight:bold; 
+    color:black; 
+    text-align: center;
+   
+}
+ div a{
+     color:white;
+    font-size:20px; 
+    font-weight:bold; 
+    padding:5px 15px;
+     border: 1px solid black;
+     background: rgb(0, 0, 0); /* Fallback color */
+       background: rgba(0, 0, 0, 0.733);
+     
+        display:inline-block; 
+        
+         
+    
+ }

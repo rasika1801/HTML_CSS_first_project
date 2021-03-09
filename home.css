@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://th.bing.com/th/id/R8de0d825f1261894fa1d206b22fbd6f7?rik=j6HyJ5y8R6iSyA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fwp1905627.jpg&ehk=GDy6sz%2bAimmwYPVwhMOyTqRhkPXbR0%2flHBanGyGC1V4%3d&risl=&pid=ImgRaw');
+    background-size: cover;
+}
+ul{
+    Float:right;
+    list-style-type: none;
+    
+}
+
+li{
+    display:inline-block; 
+    
+     
+}
+ul li a{
+    text-decoration-style: none;
+    color: blue;
+    font-weight:bold; 
+    padding: 15px 50px;
+    border:1px ;
+    font-size:25px; 
+
+}
+.myDiv {	
+    font-size:36px; 
+    font-weight:bold; 
+    color:BLUE; 
+       text-align: center;
+  
+    
+  }

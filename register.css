@@ -12,7 +12,18 @@ body{
     
 }
 
-.form
+/* .form
+{
+        position: absolute;
+         right: 0; 
+        margin: 20px;
+        max-width: 300px;
+        padding: 16px;
+        text-align: center;
+        background-color: white;
+} */
+
+ .Form
 {
     font-size:20px; 
     font-weight:bold; 
@@ -20,4 +31,4 @@ body{
        text-align: center;
        background: rgb(0, 0, 0); /* Fallback color */
        background: rgba(0, 0, 0, 0.733); /* Black background with 0.5 opacity */
-}
+} 

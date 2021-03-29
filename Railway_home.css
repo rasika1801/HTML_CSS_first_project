@@ -21,6 +21,7 @@ ul li a{
     padding: 15px 50px;
     border:1px ;
     font-size:25px; 
+    font-family: 'Roboto Slab', serif;;
 
 }
 .myDiv {	
@@ -63,3 +64,4 @@ font-weight:bold;
          
     
  }
+
